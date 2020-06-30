@@ -7,7 +7,7 @@ Can u keep running everyday for one year?
 
 
 ## 2020.06
-> 
+> 累计 64.71km 7.0h 14time
 
 | 一 | 二 | 三 | 四 | 五 | 六 | 日 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +20,7 @@ Can u keep running everyday for one year?
 |22|23|24|25|26|27|28|
 |-|-|-|-|3.21km|-|5.03km|
 |29|30|
-|-|5.00km|
+|-|5.14km|
 
 ## 2020.05
 > 累计 38.43km 4.2h 9次 
